@@ -8,6 +8,8 @@
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![R-CMD-check](https://github.com/ramnathv/testpkg2/workflows/R-CMD-check/badge.svg)](https://github.com/ramnathv/testpkg2/actions)
+[![Coverage
+Status](https://img.shields.io/codecov/c/github/ramnathv/testpkg2/master.svg)](https://codecov.io/github/ramnathv/testpkg2?branch=master)
 <!-- badges: end -->
 
 The goal of testpkg2 is to …
