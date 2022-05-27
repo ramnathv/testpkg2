@@ -8,6 +8,15 @@
 \description{
 What the package does (one paragraph).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/ramnathv/testpkg2}
+  \item \url{https://ramnathv.github.io/testpkg2/}
+  \item Report bugs at \url{https://github.com/ramnathv/testpkg2/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
