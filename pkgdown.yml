@@ -1,8 +1,8 @@
 pandoc: 2.7.3
-pkgdown: 2.0.3
+pkgdown: 2.0.4
 pkgdown_sha: ~
 articles: {}
-last_built: 2022-05-27T18:41Z
+last_built: 2022-06-11T19:07Z
 urls:
   reference: https://ramnathv.github.io/testpkg2/reference
   article: https://ramnathv.github.io/testpkg2/articles
